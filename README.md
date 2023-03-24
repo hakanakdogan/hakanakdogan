@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Hakan AKDOĞAN</h1>
-<h3 align="center">Computer Science Student at Bursa Teknik Üniversitesi</h3>
+<h3 align="center">Computer Science Student at Bursa Teknik Üniversitesi | Software Assistant Specialist at Özdilek Holding</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hakanakdogan" alt="hakanakdogan" /></a> </p>
 
