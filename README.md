@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hakan Akdoğan</h1>
 <h3 align="center">Software Assistant Specialist at Özdilek Holding</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hakanakdogan" alt="hakanakdogan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hakanakdogan-ma&theme=gruvbox" alt="hakanakdogan" /></a> </p>
 
 - 🔭 I’m currently working on **Backend Development**
 
