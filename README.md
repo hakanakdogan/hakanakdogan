@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hakan Akdoğan</h1>
-<h3 align="center">Software Assistant Specialist at Özdilek Holding</h3>
+<h3 align="center">Software Developer at Özdilek Holding</h3>
 
 - 🔭 I’m currently working on **Backend Development**
 
