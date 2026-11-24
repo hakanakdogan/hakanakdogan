@@ -36,7 +36,6 @@ public sealed record Developer
     public string[] Security=> ["JWT", "ASP.NET Core Identity", "TOTP / 2FA"];
 
     public string CurrentFocus => "Performance-aware .NET & AI-assisted engineering workflows";
-    public string OffKeyboard  => "Sim racing on iRacing 🏎️";
 }
 ```
 
