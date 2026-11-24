@@ -60,8 +60,10 @@ public sealed record Developer
 ### 📈 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hakanakdogan&show_icons=true&hide_border=true&theme=tokyonight&hide_rank=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakanakdogan&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" />
+  <img src="metrics.general.svg" alt="GitHub metrics" />
+</p>
+<p align="center">
+  <img src="metrics.languages.svg" alt="Most used languages" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=hakanakdogan&theme=tokyonight&hide_border=true" />
