@@ -10,10 +10,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍_Bursa,_Türkiye-1E1E2E?style=flat-square" />
-  <a href="mailto:akdoganhakann@gmail.com"><img src="https://img.shields.io/badge/Email-akdoganhakann@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/hakan-akdogan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=hakanakdogan&style=flat-square&color=8B5CF6&label=Profile+views" />
+  <img src="https://img.shields.io/badge/Bursa,_Türkiye-1E1E2E?style=for-the-badge&logo=googlemaps&logoColor=8B5CF6" alt="Location" />
+  <a href="mailto:akdoganhakann@gmail.com"><img src="https://img.shields.io/badge/Email-1E1E2E?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/hakan-akdogan/"><img src="https://img.shields.io/badge/LinkedIn-1E1E2E?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+  <img src="https://komarev.com/ghpvc/?username=hakanakdogan&style=for-the-badge&color=512BD4&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 ---
@@ -60,7 +60,7 @@ public sealed record Developer
 ### 📈 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hakanakdogan&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hakanakdogan&show_icons=true&hide_border=true&theme=tokyonight&hide_rank=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakanakdogan&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" />
 </p>
 <p align="center">
