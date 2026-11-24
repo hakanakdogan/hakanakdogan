@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/📍_Bursa,_Türkiye-1E1E2E?style=flat-square" />
   <img src="https://img.shields.io/badge/💼_Özdilek_Holding-512BD4?style=flat-square" />
   <a href="mailto:akdoganhakann@gmail.com"><img src="https://img.shields.io/badge/Email-akdoganhakann@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <!-- <a href="https://www.linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a> -->
+  <a href="https://www.linkedin.com/in/hakan-akdogan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=hakanakdogan&style=flat-square&color=8B5CF6&label=Profile+views" />
 </p>
 
@@ -59,35 +59,6 @@ public sealed record Developer
   <img src="https://skillicons.dev/icons?i=docker,git,github,visualstudio,vscode,linux,bash&theme=dark" />
 </p>
 
-### 🚀 Featured work
-
-| Project | What it shows | Stack |
-|---|---|---|
-| 🔐 [**JWTIdentityApp**](https://github.com/hakanakdogan/JWTIdentityApp) | Token-based auth with ASP.NET Core Identity + JWT: registration, login and protected endpoints | `ASP.NET Core` `Identity` `JWT` |
-| 📨 [**RabbitMQ_test_app**](https://github.com/hakanakdogan/RabbitMQ_test_app) | Producer (REST API) → broker → consumer (worker) pipeline for asynchronous, decoupled processing | `.NET` `RabbitMQ` |
-| ⚡ [**gRPC Service**](https://github.com/hakanakdogan/Dotnet7_gRPC_Service) + [**Client**](https://github.com/hakanakdogan/gRPCClientDemo) | High-performance service-to-service communication with Protobuf contracts | `.NET 7` `gRPC` `Protobuf` |
-| 🧱 [**Reactivities7**](https://github.com/hakanakdogan/Reactivities7) | Full-stack app built on the CQRS pattern with a clean, layered architecture | `.NET 7` `CQRS` |
-| 🚦 [**SlidingWindowRateLimiter**](https://github.com/hakanakdogan/SlidingWindowRateLimiter) | From-scratch implementation of the sliding-window rate-limiting algorithm | `C#` `Algorithms` |
-| 📊 [**SpanBenchmark**](https://github.com/hakanakdogan/SpanBenchmark) | Measures `Span<T>` against classic collections to make allocation-free code a data-driven choice | `C#` `Benchmarks` |
-| 🔑 [**TotpExampleApp**](https://github.com/hakanakdogan/TotpExampleApp) | TOTP (RFC 6238) implemented in .NET to understand how 2FA codes work under the hood | `C#` `Security` |
-| 💬 [**SignalR_Chat_App**](https://github.com/hakanakdogan/SignalR_Chat_App) | Real-time chat over WebSockets with a React client | `SignalR` `React` |
-| 🤖 [**claude-config**](https://github.com/hakanakdogan/claude-config) | A lean Claude Code workflow (agents, commands, verify scripts) that cuts token usage while keeping code quality | `Claude Code` `Shell` |
-| 🏁 [**iRacingBundler**](https://github.com/hakanakdogan/iRacingBundler) | One-click launcher for the iRacing tool stack: CrewChief, Kapps, Trading Paints, Moza Pit House | `C#` `Windows` |
-
-<details>
-<summary>📁 <b>More projects</b> (university and early work)</summary>
-<br/>
-
-- 🎓 [**KozmosEducation**](https://github.com/hakanakdogan/KozmosEducation): Web3-based online learning platform with social media integration
-- 🌡️ [**Kozmos_Sensor_App**](https://github.com/hakanakdogan/Kozmos_Sensor_App): sensor data project built with Node.js
-- 🦠 [**covid-tracker-app**](https://github.com/hakanakdogan/covid-tracker-app): mobile app for tracking COVID data worldwide and by country
-- 🚗 [**jdm-sepeti**](https://github.com/hakanakdogan/jdm-sepeti): online marketplace for buying and selling JDM cars (PHP)
-- 📄 [**Zenity-Cv-Maker**](https://github.com/hakanakdogan/Zenity-Cv-Maker): CV generator written in Bash + Zenity
-- 🎮 [**sonsuzluk-ve-otesine**](https://github.com/hakanakdogan/sonsuzluk-ve-otesine): a browser game I built
-- 🤖 [**BTU-PCDersBot**](https://github.com/hakanakdogan/BTU-PCDersBot): course-finder bot for Bursa Technical University CS students
-
-</details>
-
 ### 📈 GitHub stats
 
 <p align="center">
@@ -103,7 +74,6 @@ public sealed record Developer
 - 🔭 Building backend services at **Özdilek Holding**
 - 🧠 Going deeper on **distributed systems**, observability and .NET performance
 - 🤖 Designing **AI-assisted development workflows** that ship faster without lowering the bar
-- 💬 Ask me about **.NET, messaging, auth, or sim racing setups**
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1E2E,100:512BD4&height=100&section=footer" />
