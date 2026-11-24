@@ -60,10 +60,10 @@ public sealed record Developer
 ### 📈 GitHub stats
 
 <p align="center">
-  <img src="metrics.general.svg" alt="GitHub metrics" />
+  <img src="stats.svg" alt="GitHub stats" />
 </p>
 <p align="center">
-  <img src="metrics.languages.svg" alt="Most used languages" />
+  <img src="languages.svg" alt="Most used languages" />
 </p>
 
 ### 🌱 Currently
