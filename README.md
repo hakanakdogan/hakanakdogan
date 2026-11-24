@@ -65,9 +65,6 @@ public sealed record Developer
 <p align="center">
   <img src="metrics.languages.svg" alt="Most used languages" />
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hakanakdogan&theme=tokyonight&hide_border=true" />
-</p>
 
 ### 🌱 Currently
 
