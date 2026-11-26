@@ -16,22 +16,22 @@
 <text x="28" y="42" class="t">Most Used Languages</text>
 <text x="772" y="42" class="s" text-anchor="end">Across 60 repositories · by code size</text>
 <clipPath id="clip"><rect x="28" y="80" width="744" height="10" rx="5"/></clipPath><g clip-path="url(#clip)">
-<rect x="28.0" y="80" width="181.9" height="10" fill="#7355dd"/>
-<rect x="209.4" y="80" width="172.1" height="10" fill="#F05138"/>
-<rect x="381.0" y="80" width="104.4" height="10" fill="#f1e05a"/>
-<rect x="484.9" y="80" width="91.5" height="10" fill="#3178c6"/>
-<rect x="575.9" y="80" width="79.1" height="10" fill="#3572A5"/>
-<rect x="654.5" y="80" width="50.0" height="10" fill="#dea584"/>
-<rect x="704.1" y="80" width="21.5" height="10" fill="#c6538c"/>
-<rect x="725.1" y="80" width="19.2" height="10" fill="#ff3e00"/>
-<rect x="743.9" y="80" width="28.6" height="10" fill="#4b5063"/>
+<rect x="28.0" y="80" width="177.2" height="10" fill="#7355dd"/>
+<rect x="204.7" y="80" width="167.3" height="10" fill="#F05138"/>
+<rect x="371.5" y="80" width="101.5" height="10" fill="#f1e05a"/>
+<rect x="472.5" y="80" width="92.4" height="10" fill="#3178c6"/>
+<rect x="564.4" y="80" width="77.0" height="10" fill="#3572A5"/>
+<rect x="640.9" y="80" width="63.2" height="10" fill="#dea584"/>
+<rect x="703.6" y="80" width="21.1" height="10" fill="#ff3e00"/>
+<rect x="724.2" y="80" width="21.0" height="10" fill="#c6538c"/>
+<rect x="744.6" y="80" width="27.9" height="10" fill="#4b5063"/>
 </g>
-<g class="f" style="animation-delay:0ms"><circle cx="33" cy="118" r="5" fill="#7355dd"/><text x="46" y="122" style="fill:#e6e6f0;font-size:13px;font-weight:600">C#</text><text x="196" y="122" class="s" text-anchor="end">24.4%</text></g>
-<g class="f" style="animation-delay:60ms"><circle cx="219" cy="118" r="5" fill="#F05138"/><text x="232" y="122" style="fill:#e6e6f0;font-size:13px;font-weight:600">Swift</text><text x="382" y="122" class="s" text-anchor="end">23.1%</text></g>
-<g class="f" style="animation-delay:120ms"><circle cx="405" cy="118" r="5" fill="#f1e05a"/><text x="418" y="122" style="fill:#e6e6f0;font-size:13px;font-weight:600">JavaScript</text><text x="568" y="122" class="s" text-anchor="end">14.0%</text></g>
-<g class="f" style="animation-delay:180ms"><circle cx="591" cy="118" r="5" fill="#3178c6"/><text x="604" y="122" style="fill:#e6e6f0;font-size:13px;font-weight:600">TypeScript</text><text x="754" y="122" class="s" text-anchor="end">12.2%</text></g>
-<g class="f" style="animation-delay:240ms"><circle cx="33" cy="148" r="5" fill="#3572A5"/><text x="46" y="152" style="fill:#e6e6f0;font-size:13px;font-weight:600">Python</text><text x="196" y="152" class="s" text-anchor="end">10.6%</text></g>
-<g class="f" style="animation-delay:300ms"><circle cx="219" cy="148" r="5" fill="#dea584"/><text x="232" y="152" style="fill:#e6e6f0;font-size:13px;font-weight:600">Rust</text><text x="382" y="152" class="s" text-anchor="end">6.7%</text></g>
-<g class="f" style="animation-delay:360ms"><circle cx="405" cy="148" r="5" fill="#c6538c"/><text x="418" y="152" style="fill:#e6e6f0;font-size:13px;font-weight:600">SCSS</text><text x="568" y="152" class="s" text-anchor="end">2.8%</text></g>
-<g class="f" style="animation-delay:420ms"><circle cx="591" cy="148" r="5" fill="#ff3e00"/><text x="604" y="152" style="fill:#e6e6f0;font-size:13px;font-weight:600">Svelte</text><text x="754" y="152" class="s" text-anchor="end">2.5%</text></g>
+<g class="f" style="animation-delay:0ms"><circle cx="33" cy="118" r="5" fill="#7355dd"/><text x="46" y="122" style="fill:#e6e6f0;font-size:13px;font-weight:600">C#</text><text x="196" y="122" class="s" text-anchor="end">23.7%</text></g>
+<g class="f" style="animation-delay:60ms"><circle cx="219" cy="118" r="5" fill="#F05138"/><text x="232" y="122" style="fill:#e6e6f0;font-size:13px;font-weight:600">Swift</text><text x="382" y="122" class="s" text-anchor="end">22.4%</text></g>
+<g class="f" style="animation-delay:120ms"><circle cx="405" cy="118" r="5" fill="#f1e05a"/><text x="418" y="122" style="fill:#e6e6f0;font-size:13px;font-weight:600">JavaScript</text><text x="568" y="122" class="s" text-anchor="end">13.6%</text></g>
+<g class="f" style="animation-delay:180ms"><circle cx="591" cy="118" r="5" fill="#3178c6"/><text x="604" y="122" style="fill:#e6e6f0;font-size:13px;font-weight:600">TypeScript</text><text x="754" y="122" class="s" text-anchor="end">12.4%</text></g>
+<g class="f" style="animation-delay:240ms"><circle cx="33" cy="148" r="5" fill="#3572A5"/><text x="46" y="152" style="fill:#e6e6f0;font-size:13px;font-weight:600">Python</text><text x="196" y="152" class="s" text-anchor="end">10.3%</text></g>
+<g class="f" style="animation-delay:300ms"><circle cx="219" cy="148" r="5" fill="#dea584"/><text x="232" y="152" style="fill:#e6e6f0;font-size:13px;font-weight:600">Rust</text><text x="382" y="152" class="s" text-anchor="end">8.4%</text></g>
+<g class="f" style="animation-delay:360ms"><circle cx="405" cy="148" r="5" fill="#ff3e00"/><text x="418" y="152" style="fill:#e6e6f0;font-size:13px;font-weight:600">Svelte</text><text x="568" y="152" class="s" text-anchor="end">2.8%</text></g>
+<g class="f" style="animation-delay:420ms"><circle cx="591" cy="148" r="5" fill="#c6538c"/><text x="604" y="152" style="fill:#e6e6f0;font-size:13px;font-weight:600">SCSS</text><text x="754" y="152" class="s" text-anchor="end">2.8%</text></g>
 </svg>
